@@ -1726,14 +1726,14 @@
       "lei_prison": {
         "name": "雷狱",
         "approx_x_range": [
-          700,
-          900
+          950,
+          1100
         ],
         "approx_y_range": [
-          350,
+          300,
           500
         ],
-        "description": "摩洛克领地，曾是织骨蛛之战的古战场，常年雷云密布"
+        "description": "摩洛克领地，位于中部荒漠西部边缘，分割线X=1050附近。曾是织骨蛛之战古战场，常年雷云密布"
       },
       "zhi_han_mountains": {
         "name": "炙寒山脉",
